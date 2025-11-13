@@ -14,47 +14,84 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Languages and Tools:</h2>
 
-###
+<!-- ===================== -->
+<!--       LANGUAGES       -->
+<!-- ===================== -->
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  </a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
 
-###
+  <!-- SQL (MySQL logo) -->
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
 
-<h2 align="left">Data Science & ML Tools</h2>
+<!-- ===================== -->
+<!--   WORK ENVIRONMENTS   -->
+<!-- ===================== -->
+<p align="left">
+  <!-- VSCode -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
+  </a>
 
-###
+  <!-- RStudio -->
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
+  </a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-</div>
+  <!-- Jupyter -->
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  </a>
+</p>
 
-###
+<!-- ===================== -->
+<!--      AI / ML LIBS     -->
+<!-- ===================== -->
+<p align="left">
+  <!-- Numpy -->
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
 
-<h2 align="left">Tools & Environments</h2>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
 
-###
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <!-- logo de github visible en modo oscuro -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="40" alt="github logo"  />
-</div>
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+
+  <!-- Scikit-Learn -->
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
+  </a>
+
+  <!-- PyTorch -->
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
